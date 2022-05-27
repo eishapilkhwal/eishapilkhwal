@@ -5,12 +5,12 @@
 # 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eishapilkhwal&label=Profile%20views&color=0e75b6&style=flat" alt="eishapilkhwal"
 </p>
-
+<!-- 
 # 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eishapilkhwal&show_icons=true&locale=en" alt="eishapilkhwal" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eishapilkhwal&" alt="eishapilkhwal" /></p>
 
-# 
+#  -->
 - 📫 How to reach me **eishapilkhwal@gmail.com**
 
 # 
