@@ -1,6 +1,6 @@
 # 
 <h1 align="center">Hey! I'm Eisha Pilkhwal 🙌</h1>
-<h3 align="center">A sophomore pursuing Bachelors in Computer Science Engineering, from Banasthali University. I am an AI enthusiast</h3>
+<h3 align="center">A third year student pursuing Bachelors in Computer Science Engineering, from Banasthali University. I am an AI enthusiast</h3>
 
 # 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eishapilkhwal&label=Profile%20views&color=0e75b6&style=flat" alt="eishapilkhwal"
