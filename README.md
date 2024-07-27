@@ -1,6 +1,7 @@
 # 
 <h1 align="center">Hey! I'm Eisha Pilkhwal 🙌</h1>
-<h3 align="center">A final year student pursuing Bachelors in Computer Science Engineering, from Banasthali University. I am an AI enthusiast</h3>
+<h3 align="center">Exploring the intersection of Python, Human Biology, and Machine Learning.
+Passionate about unlocking the secrets of life with code.</h3>
 
 # 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eishapilkhwal&label=Profile%20views&color=0e75b6&style=flat" alt="eishapilkhwal"
